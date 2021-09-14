@@ -1,6 +1,6 @@
 <?php 
   // $conn = mysqli_connect('sql312.epizy.com','epiz_28774187','ma8dzMoiH2','epiz_28774187_nagari_galugua');
-  $conn = mysqli_connect('localhost','root','','nagari_galugua_rekompree');
+  $conn = mysqli_connect('localhost','root','','nagari_galugua');
   date_default_timezone_set('Asia/Jakarta');
   // error_reporting(0);
   $namabulan = array(
